@@ -41,5 +41,6 @@ Install the following:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Shedowee/infinity-styles-store.git
-cd infinity-styles-store
+git clone https://github.com/Shedowee/store.git
+cd store
+
